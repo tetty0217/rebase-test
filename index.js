@@ -1,3 +1,3 @@
 function main () {
-  console.log("rebase");
+  console.log("rebase_feature");
 }
