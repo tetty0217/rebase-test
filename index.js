@@ -1,3 +1,3 @@
 function main () {
-  console.log("start");
+  console.log("rebase");
 }
